@@ -1,4 +1,4 @@
-# Monkey Kernel
+# The Monkey Kernel
 
 _A tiny, educational 32-bit RISC-V kernel built in the jungle of Costa Rica._
 
