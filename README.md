@@ -1,8 +1,8 @@
-# MonkeyOS
+# Monkey Kernel
 
-_A tiny, educational 32-bit RISC-V operating system built in the jungle of Costa Rica._
+_A tiny, educational 32-bit RISC-V kernel built in the jungle of Costa Rica._
 
-MonkeyOS fits in just a handful of C files yet walks you through the whole stack—from boot-strapping QEMU, into a minimal kernel, all the way to a user-space “shell”. It is **not** meant for production devices; its goal is to be an approachable playground for anyone who wants to learn how an OS really works.
+Monkey Kernel fits in just a handful of C files yet walks you through the whole stack—from boot-strapping QEMU, into a minimal kernel, all the way to a user-space “shell”. It is **not** meant for production devices; its goal is to be an approachable playground for anyone who wants to learn how an OS really works.
 
 ---
 
